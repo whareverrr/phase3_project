@@ -2,9 +2,7 @@
 
 ## PROACTIVE VEHICLE MAINTENANCE WITH PREDICTIVE ANALYTICS AT DRIVESURE SOLUTIONS
 
-
 ![image](https://github.com/whareverrr/phase3_project/blob/main/maintainance.jpg)
-
 
 
 - ***Hawkins Murithi Kobia***
@@ -68,7 +66,10 @@ https://www.kaggle.com/datasets/chavindudulaj/vehicle-maintenance-data/data
 
 - Target Variable: Need_Maintenance (Binary: 1 - Maintenance needed, 0 - No maintenance needed)
 
-![image](https://github.com/whareverrr/phase3_project/blob/main/maintainance.jpg)
+
+![image](https://github.com/whareverrr/phase3_project/blob/main/Target.PNG)
+
+
 
 ## DATA ANALYSIS
 
