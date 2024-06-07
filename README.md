@@ -113,8 +113,6 @@ Our Logistic Regression model achieved an accuracy of 0.81, meaning it correctly
 The Random Forest model outperformed the Logistic Regression model with an accuracy of 1.0, indicating perfect predictive power on our test data. This model achieved a precision and recall of 1.0 for both classes, showcasing its superior ability to correctly identify true positives and minimize false negatives. The Random Forest model's robustness and high accuracy make it a powerful tool for predicting maintenance needs, ensuring proactive maintenance and vehicle reliability.
 
 
-![image](https://github.com/whareverrr/phase3_project/blob/main/Tuned%20Model.PNG))
-
 
 ## HYPERPARAMETER TUNING
 
@@ -125,7 +123,12 @@ The Random Forest model outperformed the Logistic Regression model with an accur
 
    
 - This process underscores the importance of fine-tuning to maximize performance and ensure optimal predictive capabilities, demonstrating that careful adjustment of parameters can lead to substantial improvements in model effectiveness.
-  
+
+
+
+![image](https://github.com/whareverrr/phase3_project/blob/main/Tuned%20Model.PNG)) 
+
+
 
   ## RECOMMENDATIONS
 
