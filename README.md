@@ -2,6 +2,11 @@
 
 ## PROACTIVE VEHICLE MAINTENANCE WITH PREDICTIVE ANALYTICS AT DRIVESURE SOLUTIONS
 
+
+![image](https://github.com/whareverrr/phase3_project/blob/main/maintainance.jpg)
+
+
+
 - ***Hawkins Murithi Kobia***
 
 
