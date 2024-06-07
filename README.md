@@ -55,6 +55,8 @@ This predictive capability will help in scheduling timely maintenance, preventin
 
 #### Vehicle_Maintenance_Data CSV Dataset
 
+https://www.kaggle.com/datasets/chavindudulaj/vehicle-maintenance-data/data
+
 - The dataset provided contains information on vehicle attributes, maintenance history, and reported issues.
   
 - Features: Vehicle_Model, Mileage, Maintenance_History, Reported_Issues, Vehicle_Age, Fuel_Type, Transmission_Type, Engine_Size, Odometer_Reading,Last_Service_Date, Warranty_Expiry_Date, Owner_Type, Insurance_Premium, Service_History, Accident_History, Fuel_Efficiency, Tire_Condition, Brake_Condition, Battery_Status.
