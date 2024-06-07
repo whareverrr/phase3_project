@@ -68,7 +68,7 @@ https://www.kaggle.com/datasets/chavindudulaj/vehicle-maintenance-data/data
 
 - Target Variable: Need_Maintenance (Binary: 1 - Maintenance needed, 0 - No maintenance needed)
 
-
+![image](https://github.com/whareverrr/phase3_project/blob/main/maintainance.jpg)
 
 ## DATA ANALYSIS
 
